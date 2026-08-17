@@ -33,6 +33,27 @@ Captured from a real local run of **VALI v10** with simulated attacker traffic.
 | 09-vault.png | Secrets vault (high-value / canary) |
 | 10-intelligence-dashboard.png | VALI Intelligence Dashboard (sessions, risk, kill-chain) |
 
+01-HOME
+<img width="1440" height="900" alt="01-home" src="https://github.com/user-attachments/assets/ea5ebd6e-ef1d-45a5-9963-cfd71027e483" />
+02-LOGIN 
+<img width="1440" height="900" alt="02-login" src="https://github.com/user-attachments/assets/b429e21a-94b6-446e-b3b8-3b13f925462d" />
+03-dashboard-decoy
+<img width="1440" height="900" alt="03-dashboard-decoy" src="https://github.com/user-attachments/assets/86c6e9a6-d021-481d-a5d8-92fc3702b0aa" />
+04-users
+<img width="1440" height="900" alt="04-users" src="https://github.com/user-attachments/assets/f8b2afb8-bf09-41a3-ad73-8d5d06784806" />
+05-api-docs
+<img width="1440" height="900" alt="05-api-docs" src="https://github.com/user-attachments/assets/dd48cd02-bff4-4c62-ab14-da8ead027521" />
+06-staging
+<img width="1440" height="900" alt="06-staging" src="https://github.com/user-attachments/assets/546c1d60-faaf-4c35-8b72-74d5b1e9f3fb" />
+07-config
+<img width="1440" height="900" alt="07-config" src="https://github.com/user-attachments/assets/af9ad5c5-24c3-4f3a-a678-cfbacc4bfec9" />
+08-backups
+<img width="1440" height="900" alt="08-backups" src="https://github.com/user-attachments/assets/545cfe4c-59dd-4dc2-96c6-2c0307f14647" />
+09-vault
+<img width="1440" height="900" alt="09-vault" src="https://github.com/user-attachments/assets/d1094012-6b96-4b29-bdb2-0ac17ce80dfb" />
+10-intelligence-dashboard
+<img width="1440" height="1100" alt="10-intelligence-dashboard" src="https://github.com/user-attachments/assets/4d7da4c0-139c-4e36-a65c-019262273ba2" />
+
 ## How the flow works
 
 1. Attacker lands on **home** (looks like a real internal portal)
